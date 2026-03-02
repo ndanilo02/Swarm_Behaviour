@@ -1,0 +1,14 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Ignoriši dataset fajlove
+*.csv
