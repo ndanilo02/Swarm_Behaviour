@@ -20,6 +20,11 @@ Swarm_Behaviour/
 │   ├── aligned.ipynb
 │   ├── flocking.ipynb
 │   └── grouped.ipynb
+├── pic/
+│   ├── ...
+├── swarm_behaviour.pdf
+├── zapisnik.md
+├── README.md 
 ├── requirements.txt
 └── .gitignore
 ```
